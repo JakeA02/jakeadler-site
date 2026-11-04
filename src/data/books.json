@@ -1,0 +1,87 @@
+[
+ {
+  "bookType": "other",
+  "firstSale": "2025-10-03",
+  "orders": 84
+ },
+ {
+  "bookType": "princess-quest",
+  "firstSale": "2026-02-04",
+  "orders": 13
+ },
+ {
+  "bookType": "easter",
+  "firstSale": "2026-03-09",
+  "orders": 15
+ },
+ {
+  "bookType": "mothers-day",
+  "firstSale": "2026-03-31",
+  "orders": 344
+ },
+ {
+  "bookType": "revolutionary-war",
+  "firstSale": "2026-04-21",
+  "orders": 2
+ },
+ {
+  "bookType": "fathers-day",
+  "firstSale": "2026-05-16",
+  "orders": 65
+ },
+ {
+  "bookType": "first-fathers-day",
+  "firstSale": "2026-05-29",
+  "orders": 132
+ },
+ {
+  "bookType": "as-far-as-love-can-go",
+  "firstSale": "2026-06-26",
+  "orders": 6
+ },
+ {
+  "bookType": "big-hands-little-hands",
+  "firstSale": "2026-07-06",
+  "orders": 8
+ },
+ {
+  "bookType": "build-a-road",
+  "firstSale": "2026-07-13",
+  "orders": 6
+ },
+ {
+  "bookType": "big-hands-little-hands-first-birthday",
+  "firstSale": "2026-07-23",
+  "orders": 23
+ },
+ {
+  "bookType": "daytime-stars",
+  "firstSale": "2026-08-07",
+  "orders": 27
+ },
+ {
+  "bookType": "coloring-pages",
+  "firstSale": "2026-08-16",
+  "orders": 14
+ },
+ {
+  "bookType": "dino-mac-mission",
+  "firstSale": "2026-08-25",
+  "orders": 4
+ },
+ {
+  "bookType": "skeleton-sleepover",
+  "firstSale": "2026-08-25",
+  "orders": 11
+ },
+ {
+  "bookType": "diwali",
+  "firstSale": "2026-09-04",
+  "orders": 999
+ },
+ {
+  "bookType": "hanukkah",
+  "firstSale": "2026-10-02",
+  "orders": 6
+ }
+]

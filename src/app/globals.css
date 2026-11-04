@@ -1,0 +1,237 @@
+@import "tailwindcss";
+
+/*
+ * Design system: "left the internet for a minute"
+ * Palette: warm paper, soft ink, one terracotta accent, one sage for "good" data.
+ * Type: Fraunces (editorial serif) for voice, Inter for labels/numbers.
+ * Motion: slow, single-purpose. Things draw or count once, when scrolled into view.
+ * Respect prefers-reduced-motion everywhere.
+ */
+:root {
+  --paper: #f6f1e7;
+  --paper-deep: #ece4d3;
+  --ink: #1f1b16;
+  --ink-soft: #5c5448;
+  --line: #d9cfba;
+  --accent: #b4492b;
+  --sage: #5b6b4f;
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-deep: var(--paper-deep);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-sage: var(--sage);
+  --font-serif: var(--font-fraunces);
+  --font-sans: var(--font-inter);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-inter), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Subtle paper grain so flat color feels printed. */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.35;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.45  0 0 0 0 0.38  0 0 0 0 0.3  0 0 0 0.06 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+  z-index: 50;
+}
+
+/* Scroll reveal */
+.reveal {
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity 0.9s var(--ease), transform 0.9s var(--ease);
+}
+.reveal.in {
+  opacity: 1;
+  transform: none;
+}
+
+/* Charts draw once when .in is applied to an ancestor */
+.draw-line {
+  stroke-dasharray: var(--len, 2000);
+  stroke-dashoffset: var(--len, 2000);
+}
+.in .draw-line {
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 2.2s var(--ease);
+}
+.grow-bar {
+  transform: scaleY(0);
+  transform-origin: bottom;
+}
+.in .grow-bar {
+  transform: scaleY(1);
+  transition: transform 0.9s var(--ease);
+  transition-delay: var(--d, 0ms);
+}
+.grow-x {
+  transform: scaleX(0);
+  transform-origin: left;
+}
+.in .grow-x {
+  transform: scaleX(1);
+  transition: transform 1.2s var(--ease);
+  transition-delay: var(--d, 0ms);
+}
+.grow-y {
+  transform: scaleY(0);
+  transform-origin: top;
+}
+.in .grow-y {
+  transform: scaleY(1);
+  transition: transform 2.2s var(--ease);
+  transition-delay: var(--d, 0ms);
+}
+.pop {
+  opacity: 0;
+  transform: scale(0.6);
+}
+.in .pop {
+  opacity: 1;
+  transform: none;
+  transition: opacity 0.5s var(--ease), transform 0.5s var(--ease);
+  transition-delay: var(--d, 0ms);
+}
+.step-in {
+  opacity: 0;
+  transform: translateY(8px);
+}
+.in .step-in {
+  opacity: 1;
+  transform: none;
+  transition: opacity 0.7s var(--ease), transform 0.7s var(--ease);
+  transition-delay: var(--d, 0ms);
+}
+.fade-in-late {
+  opacity: 0;
+}
+.in .fade-in-late {
+  opacity: 1;
+  transition: opacity 0.8s var(--ease) 1.6s;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .reveal,
+  .grow-bar,
+  .grow-x,
+  .grow-y,
+  .pop,
+  .step-in,
+  .fade-in-late {
+    opacity: 1;
+    transform: none;
+    transition: none !important;
+  }
+  .draw-line {
+    stroke-dashoffset: 0;
+    transition: none !important;
+  }
+}
+
+/* Book marquee: JS autoscroll + manual nav. Covers fade template -> personalized swap. */
+.book-marquee {
+  overflow-x: auto;
+  overflow-y: hidden;
+  overscroll-behavior-x: contain;
+  cursor: grab;
+  scrollbar-width: none;
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 7%, #000 93%, transparent);
+  mask-image: linear-gradient(90deg, transparent, #000 7%, #000 93%, transparent);
+}
+.book-marquee::-webkit-scrollbar {
+  display: none;
+}
+.book-marquee.is-dragging,
+.book-marquee.is-dragging * {
+  cursor: grabbing;
+}
+.book-track {
+  display: flex;
+  width: max-content;
+  user-select: none;
+}
+.book-swap {
+  opacity: 0;
+  animation: book-swap 10s ease-in-out infinite backwards;
+  animation-delay: calc(var(--i, 0) * 0.8s);
+}
+/* 10s cycle = the storefront's 5s toggle: ~4.3s on the template, 0.7s fade, ~4.3s on the swap, 0.7s fade. */
+@keyframes book-swap {
+  0%,
+  43% {
+    opacity: 0;
+  }
+  50%,
+  93% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .book-swap {
+    animation: none;
+    opacity: 1;
+  }
+}
+
+/* MyJarvis tile: ringing halo behind the caller avatar */
+.call-ring {
+  animation: call-ring 2s var(--ease) infinite;
+}
+@keyframes call-ring {
+  0% {
+    transform: scale(1);
+    opacity: 0.7;
+  }
+  100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .call-ring {
+    animation: none;
+    opacity: 0;
+  }
+}
+
+/* Horizontal snap carousel for the mobile "Wrapped" chapter view */
+/* Scoped to mobile: unlayered CSS beats Tailwind's layered md: utilities, so the
+   carousel styles must not apply at md and up or they override the desktop grid. */
+@media (max-width: 47.999rem) {
+  .snap-row {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+  }
+  .snap-row::-webkit-scrollbar {
+    display: none;
+  }
+  .snap-row > * {
+    scroll-snap-align: center;
+    flex: 0 0 88%;
+  }
+}

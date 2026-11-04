@@ -1,0 +1,3236 @@
+{
+ "generatedAt": "2026-11-04T16:32:04.215724+00:00",
+ "charges": 1551,
+ "gross": 69994.46,
+ "refunds": 1701.59,
+ "net": 68292.87,
+ "daily": [
+  {
+   "date": "2025-08-01",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 0.0,
+   "cumulativeNet": 0.0
+  },
+  {
+   "date": "2025-08-02",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 0.0,
+   "cumulativeNet": 0.0
+  },
+  {
+   "date": "2025-08-03",
+   "gross": 45.68,
+   "refunds": 0.0,
+   "cumulativeGross": 45.68,
+   "cumulativeNet": 45.68
+  },
+  {
+   "date": "2025-08-04",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 45.68,
+   "cumulativeNet": 45.68
+  },
+  {
+   "date": "2025-08-05",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 45.68,
+   "cumulativeNet": 45.68
+  },
+  {
+   "date": "2025-08-06",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 45.68,
+   "cumulativeNet": 45.68
+  },
+  {
+   "date": "2025-08-07",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 45.68,
+   "cumulativeNet": 45.68
+  },
+  {
+   "date": "2025-08-08",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 45.68,
+   "cumulativeNet": 45.68
+  },
+  {
+   "date": "2025-08-09",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 45.68,
+   "cumulativeNet": 45.68
+  },
+  {
+   "date": "2025-08-10",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 45.68,
+   "cumulativeNet": 45.68
+  },
+  {
+   "date": "2025-08-11",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 45.68,
+   "cumulativeNet": 45.68
+  },
+  {
+   "date": "2025-08-12",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 45.68,
+   "cumulativeNet": 45.68
+  },
+  {
+   "date": "2025-08-13",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 45.68,
+   "cumulativeNet": 45.68
+  },
+  {
+   "date": "2025-08-14",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 45.68,
+   "cumulativeNet": 45.68
+  },
+  {
+   "date": "2025-08-15",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 45.68,
+   "cumulativeNet": 45.68
+  },
+  {
+   "date": "2025-08-16",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 45.68,
+   "cumulativeNet": 45.68
+  },
+  {
+   "date": "2025-08-17",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 45.68,
+   "cumulativeNet": 45.68
+  },
+  {
+   "date": "2025-08-18",
+   "gross": 45.68,
+   "refunds": 0.0,
+   "cumulativeGross": 91.36,
+   "cumulativeNet": 91.36
+  },
+  {
+   "date": "2025-08-19",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 91.36,
+   "cumulativeNet": 91.36
+  },
+  {
+   "date": "2025-08-20",
+   "gross": 45.68,
+   "refunds": 0.0,
+   "cumulativeGross": 137.04,
+   "cumulativeNet": 137.04
+  },
+  {
+   "date": "2025-08-21",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 137.04,
+   "cumulativeNet": 137.04
+  },
+  {
+   "date": "2025-08-22",
+   "gross": 91.36,
+   "refunds": 0.0,
+   "cumulativeGross": 228.4,
+   "cumulativeNet": 228.4
+  },
+  {
+   "date": "2025-08-23",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 228.4,
+   "cumulativeNet": 228.4
+  },
+  {
+   "date": "2025-08-24",
+   "gross": 45.68,
+   "refunds": 45.68,
+   "cumulativeGross": 274.08,
+   "cumulativeNet": 228.4
+  },
+  {
+   "date": "2025-08-25",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 274.08,
+   "cumulativeNet": 228.4
+  },
+  {
+   "date": "2025-08-26",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 274.08,
+   "cumulativeNet": 228.4
+  },
+  {
+   "date": "2025-08-27",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 274.08,
+   "cumulativeNet": 228.4
+  },
+  {
+   "date": "2025-08-28",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 274.08,
+   "cumulativeNet": 228.4
+  },
+  {
+   "date": "2025-08-29",
+   "gross": 46.68,
+   "refunds": 0.0,
+   "cumulativeGross": 320.76,
+   "cumulativeNet": 275.08
+  },
+  {
+   "date": "2025-08-30",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 320.76,
+   "cumulativeNet": 275.08
+  },
+  {
+   "date": "2025-08-31",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 320.76,
+   "cumulativeNet": 275.08
+  },
+  {
+   "date": "2025-09-01",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 320.76,
+   "cumulativeNet": 275.08
+  },
+  {
+   "date": "2025-09-02",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 320.76,
+   "cumulativeNet": 275.08
+  },
+  {
+   "date": "2025-09-03",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 320.76,
+   "cumulativeNet": 275.08
+  },
+  {
+   "date": "2025-09-04",
+   "gross": 93.36,
+   "refunds": 0.0,
+   "cumulativeGross": 414.12,
+   "cumulativeNet": 368.44
+  },
+  {
+   "date": "2025-09-05",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 414.12,
+   "cumulativeNet": 368.44
+  },
+  {
+   "date": "2025-09-06",
+   "gross": 46.68,
+   "refunds": 0.0,
+   "cumulativeGross": 460.8,
+   "cumulativeNet": 415.12
+  },
+  {
+   "date": "2025-09-07",
+   "gross": 46.68,
+   "refunds": 0.0,
+   "cumulativeGross": 507.48,
+   "cumulativeNet": 461.8
+  },
+  {
+   "date": "2025-09-08",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 507.48,
+   "cumulativeNet": 461.8
+  },
+  {
+   "date": "2025-09-09",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 507.48,
+   "cumulativeNet": 461.8
+  },
+  {
+   "date": "2025-09-10",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 507.48,
+   "cumulativeNet": 461.8
+  },
+  {
+   "date": "2025-09-11",
+   "gross": 46.68,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-12",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-13",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-14",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-15",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-16",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-17",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-18",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-19",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-20",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-21",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-22",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-23",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-24",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-25",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-26",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-27",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-28",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-29",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 554.16,
+   "cumulativeNet": 508.48
+  },
+  {
+   "date": "2025-09-30",
+   "gross": 46.68,
+   "refunds": 0.0,
+   "cumulativeGross": 600.84,
+   "cumulativeNet": 555.16
+  },
+  {
+   "date": "2025-10-01",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 600.84,
+   "cumulativeNet": 555.16
+  },
+  {
+   "date": "2025-10-02",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 600.84,
+   "cumulativeNet": 555.16
+  },
+  {
+   "date": "2025-10-03",
+   "gross": 35.0,
+   "refunds": 0.0,
+   "cumulativeGross": 635.84,
+   "cumulativeNet": 590.16
+  },
+  {
+   "date": "2025-10-04",
+   "gross": 74.68,
+   "refunds": 0.0,
+   "cumulativeGross": 710.52,
+   "cumulativeNet": 664.84
+  },
+  {
+   "date": "2025-10-05",
+   "gross": 86.67,
+   "refunds": 0.0,
+   "cumulativeGross": 797.19,
+   "cumulativeNet": 751.51
+  },
+  {
+   "date": "2025-10-06",
+   "gross": 46.68,
+   "refunds": 0.0,
+   "cumulativeGross": 843.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-07",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 843.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-08",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 843.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-09",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 843.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-10",
+   "gross": 5.0,
+   "refunds": 5.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-11",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-12",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-13",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-14",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-15",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-16",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-17",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-18",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-19",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-20",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-21",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-22",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-23",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-24",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-25",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-26",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-27",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-28",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-29",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 848.87,
+   "cumulativeNet": 798.19
+  },
+  {
+   "date": "2025-10-30",
+   "gross": 46.98,
+   "refunds": 0.0,
+   "cumulativeGross": 895.85,
+   "cumulativeNet": 845.17
+  },
+  {
+   "date": "2025-10-31",
+   "gross": 30.99,
+   "refunds": 0.0,
+   "cumulativeGross": 926.84,
+   "cumulativeNet": 876.16
+  },
+  {
+   "date": "2025-11-01",
+   "gross": 33.69,
+   "refunds": 0.0,
+   "cumulativeGross": 960.53,
+   "cumulativeNet": 909.85
+  },
+  {
+   "date": "2025-11-02",
+   "gross": 188.06,
+   "refunds": 0.0,
+   "cumulativeGross": 1148.59,
+   "cumulativeNet": 1097.91
+  },
+  {
+   "date": "2025-11-03",
+   "gross": 40.99,
+   "refunds": 0.0,
+   "cumulativeGross": 1189.58,
+   "cumulativeNet": 1138.9
+  },
+  {
+   "date": "2025-11-04",
+   "gross": 181.93,
+   "refunds": 0.0,
+   "cumulativeGross": 1371.51,
+   "cumulativeNet": 1320.83
+  },
+  {
+   "date": "2025-11-05",
+   "gross": 81.98,
+   "refunds": 0.0,
+   "cumulativeGross": 1453.49,
+   "cumulativeNet": 1402.81
+  },
+  {
+   "date": "2025-11-06",
+   "gross": 65.99,
+   "refunds": 0.0,
+   "cumulativeGross": 1519.48,
+   "cumulativeNet": 1468.8
+  },
+  {
+   "date": "2025-11-07",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 1519.48,
+   "cumulativeNet": 1468.8
+  },
+  {
+   "date": "2025-11-08",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 1519.48,
+   "cumulativeNet": 1468.8
+  },
+  {
+   "date": "2025-11-09",
+   "gross": 318.91,
+   "refunds": 0.0,
+   "cumulativeGross": 1838.39,
+   "cumulativeNet": 1787.71
+  },
+  {
+   "date": "2025-11-10",
+   "gross": 61.98,
+   "refunds": 0.0,
+   "cumulativeGross": 1900.37,
+   "cumulativeNet": 1849.69
+  },
+  {
+   "date": "2025-11-11",
+   "gross": 220.94,
+   "refunds": 0.0,
+   "cumulativeGross": 2121.31,
+   "cumulativeNet": 2070.63
+  },
+  {
+   "date": "2025-11-12",
+   "gross": 153.96,
+   "refunds": 0.0,
+   "cumulativeGross": 2275.27,
+   "cumulativeNet": 2224.59
+  },
+  {
+   "date": "2025-11-13",
+   "gross": 286.11,
+   "refunds": 0.0,
+   "cumulativeGross": 2561.38,
+   "cumulativeNet": 2510.7
+  },
+  {
+   "date": "2025-11-14",
+   "gross": 336.63,
+   "refunds": 0.0,
+   "cumulativeGross": 2898.01,
+   "cumulativeNet": 2847.33
+  },
+  {
+   "date": "2025-11-15",
+   "gross": 112.97,
+   "refunds": 0.0,
+   "cumulativeGross": 3010.98,
+   "cumulativeNet": 2960.3
+  },
+  {
+   "date": "2025-11-16",
+   "gross": 277.92,
+   "refunds": 0.0,
+   "cumulativeGross": 3288.9,
+   "cumulativeNet": 3238.22
+  },
+  {
+   "date": "2025-11-17",
+   "gross": 142.97,
+   "refunds": 40.99,
+   "cumulativeGross": 3431.87,
+   "cumulativeNet": 3340.2
+  },
+  {
+   "date": "2025-11-18",
+   "gross": 550.64,
+   "refunds": 0.0,
+   "cumulativeGross": 3982.51,
+   "cumulativeNet": 3890.84
+  },
+  {
+   "date": "2025-11-19",
+   "gross": 30.99,
+   "refunds": 0.0,
+   "cumulativeGross": 4013.5,
+   "cumulativeNet": 3921.83
+  },
+  {
+   "date": "2025-11-20",
+   "gross": 122.97,
+   "refunds": 0.0,
+   "cumulativeGross": 4136.47,
+   "cumulativeNet": 4044.8
+  },
+  {
+   "date": "2025-11-21",
+   "gross": 35.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4171.47,
+   "cumulativeNet": 4079.8
+  },
+  {
+   "date": "2025-11-22",
+   "gross": 91.98,
+   "refunds": 0.0,
+   "cumulativeGross": 4263.45,
+   "cumulativeNet": 4171.78
+  },
+  {
+   "date": "2025-11-23",
+   "gross": 82.67,
+   "refunds": 40.99,
+   "cumulativeGross": 4346.12,
+   "cumulativeNet": 4213.46
+  },
+  {
+   "date": "2025-11-24",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4346.12,
+   "cumulativeNet": 4213.46
+  },
+  {
+   "date": "2025-11-25",
+   "gross": 40.99,
+   "refunds": 0.0,
+   "cumulativeGross": 4387.11,
+   "cumulativeNet": 4254.45
+  },
+  {
+   "date": "2025-11-26",
+   "gross": 35.99,
+   "refunds": 0.0,
+   "cumulativeGross": 4423.1,
+   "cumulativeNet": 4290.44
+  },
+  {
+   "date": "2025-11-27",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4423.1,
+   "cumulativeNet": 4290.44
+  },
+  {
+   "date": "2025-11-28",
+   "gross": 71.98,
+   "refunds": 0.0,
+   "cumulativeGross": 4495.08,
+   "cumulativeNet": 4362.42
+  },
+  {
+   "date": "2025-11-29",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4495.08,
+   "cumulativeNet": 4362.42
+  },
+  {
+   "date": "2025-11-30",
+   "gross": 45.99,
+   "refunds": 0.0,
+   "cumulativeGross": 4541.07,
+   "cumulativeNet": 4408.41
+  },
+  {
+   "date": "2025-12-01",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4541.07,
+   "cumulativeNet": 4408.41
+  },
+  {
+   "date": "2025-12-02",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4541.07,
+   "cumulativeNet": 4408.41
+  },
+  {
+   "date": "2025-12-03",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4541.07,
+   "cumulativeNet": 4408.41
+  },
+  {
+   "date": "2025-12-04",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4541.07,
+   "cumulativeNet": 4408.41
+  },
+  {
+   "date": "2025-12-05",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4541.07,
+   "cumulativeNet": 4408.41
+  },
+  {
+   "date": "2025-12-06",
+   "gross": 45.99,
+   "refunds": 0.0,
+   "cumulativeGross": 4587.06,
+   "cumulativeNet": 4454.4
+  },
+  {
+   "date": "2025-12-07",
+   "gross": 0.0,
+   "refunds": 40.99,
+   "cumulativeGross": 4587.06,
+   "cumulativeNet": 4413.41
+  },
+  {
+   "date": "2025-12-08",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4587.06,
+   "cumulativeNet": 4413.41
+  },
+  {
+   "date": "2025-12-09",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4587.06,
+   "cumulativeNet": 4413.41
+  },
+  {
+   "date": "2025-12-10",
+   "gross": 35.99,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-11",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-12",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-13",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-14",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-15",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-16",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-17",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-18",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-19",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-20",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-21",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-22",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-23",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-24",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-25",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-26",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-27",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-28",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-29",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-30",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2025-12-31",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-01",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-02",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-03",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-04",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-05",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-06",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-07",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-08",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-09",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-10",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-11",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-12",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-13",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-14",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-15",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-16",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-17",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-18",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-19",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-20",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-21",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-22",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-23",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-24",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-25",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-26",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-27",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-28",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-29",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-30",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-01-31",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-02-01",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-02-02",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-02-03",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4623.05,
+   "cumulativeNet": 4449.4
+  },
+  {
+   "date": "2026-02-04",
+   "gross": 42.98,
+   "refunds": 0.0,
+   "cumulativeGross": 4666.03,
+   "cumulativeNet": 4492.38
+  },
+  {
+   "date": "2026-02-05",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4666.03,
+   "cumulativeNet": 4492.38
+  },
+  {
+   "date": "2026-02-06",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4666.03,
+   "cumulativeNet": 4492.38
+  },
+  {
+   "date": "2026-02-07",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4666.03,
+   "cumulativeNet": 4492.38
+  },
+  {
+   "date": "2026-02-08",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4666.03,
+   "cumulativeNet": 4492.38
+  },
+  {
+   "date": "2026-02-09",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4666.03,
+   "cumulativeNet": 4492.38
+  },
+  {
+   "date": "2026-02-10",
+   "gross": 42.98,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-11",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-12",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-13",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-14",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-15",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-16",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-17",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-18",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-19",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-20",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-21",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-22",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-23",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-24",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-25",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-26",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-27",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-02-28",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-03-01",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-03-02",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-03-03",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-03-04",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-03-05",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-03-06",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-03-07",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-03-08",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4709.01,
+   "cumulativeNet": 4535.36
+  },
+  {
+   "date": "2026-03-09",
+   "gross": 85.96,
+   "refunds": 0.0,
+   "cumulativeGross": 4794.97,
+   "cumulativeNet": 4621.32
+  },
+  {
+   "date": "2026-03-10",
+   "gross": 42.98,
+   "refunds": 0.0,
+   "cumulativeGross": 4837.95,
+   "cumulativeNet": 4664.3
+  },
+  {
+   "date": "2026-03-11",
+   "gross": 85.96,
+   "refunds": 0.0,
+   "cumulativeGross": 4923.91,
+   "cumulativeNet": 4750.26
+  },
+  {
+   "date": "2026-03-12",
+   "gross": 42.98,
+   "refunds": 0.0,
+   "cumulativeGross": 4966.89,
+   "cumulativeNet": 4793.24
+  },
+  {
+   "date": "2026-03-13",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4966.89,
+   "cumulativeNet": 4793.24
+  },
+  {
+   "date": "2026-03-14",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 4966.89,
+   "cumulativeNet": 4793.24
+  },
+  {
+   "date": "2026-03-15",
+   "gross": 85.96,
+   "refunds": 0.0,
+   "cumulativeGross": 5052.85,
+   "cumulativeNet": 4879.2
+  },
+  {
+   "date": "2026-03-16",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5052.85,
+   "cumulativeNet": 4879.2
+  },
+  {
+   "date": "2026-03-17",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5052.85,
+   "cumulativeNet": 4879.2
+  },
+  {
+   "date": "2026-03-18",
+   "gross": 42.4,
+   "refunds": 0.0,
+   "cumulativeGross": 5095.25,
+   "cumulativeNet": 4921.6
+  },
+  {
+   "date": "2026-03-19",
+   "gross": 84.8,
+   "refunds": 0.0,
+   "cumulativeGross": 5180.05,
+   "cumulativeNet": 5006.4
+  },
+  {
+   "date": "2026-03-20",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5180.05,
+   "cumulativeNet": 5006.4
+  },
+  {
+   "date": "2026-03-21",
+   "gross": 42.4,
+   "refunds": 0.0,
+   "cumulativeGross": 5222.45,
+   "cumulativeNet": 5048.8
+  },
+  {
+   "date": "2026-03-22",
+   "gross": 42.4,
+   "refunds": 0.0,
+   "cumulativeGross": 5264.85,
+   "cumulativeNet": 5091.2
+  },
+  {
+   "date": "2026-03-23",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5264.85,
+   "cumulativeNet": 5091.2
+  },
+  {
+   "date": "2026-03-24",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5264.85,
+   "cumulativeNet": 5091.2
+  },
+  {
+   "date": "2026-03-25",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5264.85,
+   "cumulativeNet": 5091.2
+  },
+  {
+   "date": "2026-03-26",
+   "gross": 32.4,
+   "refunds": 0.0,
+   "cumulativeGross": 5297.25,
+   "cumulativeNet": 5123.6
+  },
+  {
+   "date": "2026-03-27",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5297.25,
+   "cumulativeNet": 5123.6
+  },
+  {
+   "date": "2026-03-28",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5297.25,
+   "cumulativeNet": 5123.6
+  },
+  {
+   "date": "2026-03-29",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5297.25,
+   "cumulativeNet": 5123.6
+  },
+  {
+   "date": "2026-03-30",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5297.25,
+   "cumulativeNet": 5123.6
+  },
+  {
+   "date": "2026-03-31",
+   "gross": 41.53,
+   "refunds": 0.0,
+   "cumulativeGross": 5338.78,
+   "cumulativeNet": 5165.13
+  },
+  {
+   "date": "2026-04-01",
+   "gross": 73.08,
+   "refunds": 0.0,
+   "cumulativeGross": 5411.86,
+   "cumulativeNet": 5238.21
+  },
+  {
+   "date": "2026-04-02",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5411.86,
+   "cumulativeNet": 5238.21
+  },
+  {
+   "date": "2026-04-03",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5411.86,
+   "cumulativeNet": 5238.21
+  },
+  {
+   "date": "2026-04-04",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5411.86,
+   "cumulativeNet": 5238.21
+  },
+  {
+   "date": "2026-04-05",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5411.86,
+   "cumulativeNet": 5238.21
+  },
+  {
+   "date": "2026-04-06",
+   "gross": 31.54,
+   "refunds": 0.0,
+   "cumulativeGross": 5443.4,
+   "cumulativeNet": 5269.75
+  },
+  {
+   "date": "2026-04-07",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5443.4,
+   "cumulativeNet": 5269.75
+  },
+  {
+   "date": "2026-04-08",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5443.4,
+   "cumulativeNet": 5269.75
+  },
+  {
+   "date": "2026-04-09",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5443.4,
+   "cumulativeNet": 5269.75
+  },
+  {
+   "date": "2026-04-10",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5443.4,
+   "cumulativeNet": 5269.75
+  },
+  {
+   "date": "2026-04-11",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5443.4,
+   "cumulativeNet": 5269.75
+  },
+  {
+   "date": "2026-04-12",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5443.4,
+   "cumulativeNet": 5269.75
+  },
+  {
+   "date": "2026-04-13",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 5443.4,
+   "cumulativeNet": 5269.75
+  },
+  {
+   "date": "2026-04-14",
+   "gross": 41.53,
+   "refunds": 0.0,
+   "cumulativeGross": 5484.93,
+   "cumulativeNet": 5311.28
+  },
+  {
+   "date": "2026-04-15",
+   "gross": 83.06,
+   "refunds": 0.0,
+   "cumulativeGross": 5567.99,
+   "cumulativeNet": 5394.34
+  },
+  {
+   "date": "2026-04-16",
+   "gross": 264.53,
+   "refunds": 0.0,
+   "cumulativeGross": 5832.52,
+   "cumulativeNet": 5658.87
+  },
+  {
+   "date": "2026-04-17",
+   "gross": 296.76,
+   "refunds": 0.0,
+   "cumulativeGross": 6129.28,
+   "cumulativeNet": 5955.63
+  },
+  {
+   "date": "2026-04-18",
+   "gross": 222.65,
+   "refunds": 0.0,
+   "cumulativeGross": 6351.93,
+   "cumulativeNet": 6178.28
+  },
+  {
+   "date": "2026-04-19",
+   "gross": 217.65,
+   "refunds": 0.0,
+   "cumulativeGross": 6569.58,
+   "cumulativeNet": 6395.93
+  },
+  {
+   "date": "2026-04-20",
+   "gross": 503.39,
+   "refunds": 0.0,
+   "cumulativeGross": 7072.97,
+   "cumulativeNet": 6899.32
+  },
+  {
+   "date": "2026-04-21",
+   "gross": 1174.83,
+   "refunds": 0.0,
+   "cumulativeGross": 8247.8,
+   "cumulativeNet": 8074.15
+  },
+  {
+   "date": "2026-04-22",
+   "gross": 544.93,
+   "refunds": 0.0,
+   "cumulativeGross": 8792.73,
+   "cumulativeNet": 8619.08
+  },
+  {
+   "date": "2026-04-23",
+   "gross": 1197.89,
+   "refunds": 0.0,
+   "cumulativeGross": 9990.62,
+   "cumulativeNet": 9816.97
+  },
+  {
+   "date": "2026-04-24",
+   "gross": 1798.96,
+   "refunds": 36.54,
+   "cumulativeGross": 11789.58,
+   "cumulativeNet": 11579.39
+  },
+  {
+   "date": "2026-04-25",
+   "gross": 1031.73,
+   "refunds": 0.0,
+   "cumulativeGross": 12821.31,
+   "cumulativeNet": 12611.12
+  },
+  {
+   "date": "2026-04-26",
+   "gross": 1217.88,
+   "refunds": 83.06,
+   "cumulativeGross": 14039.19,
+   "cumulativeNet": 13745.94
+  },
+  {
+   "date": "2026-04-27",
+   "gross": 1741.55,
+   "refunds": 46.53,
+   "cumulativeGross": 15780.74,
+   "cumulativeNet": 15440.96
+  },
+  {
+   "date": "2026-04-28",
+   "gross": 2259.65,
+   "refunds": 36.54,
+   "cumulativeGross": 18040.39,
+   "cumulativeNet": 17664.07
+  },
+  {
+   "date": "2026-04-29",
+   "gross": 1518.59,
+   "refunds": 0.0,
+   "cumulativeGross": 19558.98,
+   "cumulativeNet": 19182.66
+  },
+  {
+   "date": "2026-04-30",
+   "gross": 259.19,
+   "refunds": 0.0,
+   "cumulativeGross": 19818.17,
+   "cumulativeNet": 19441.85
+  },
+  {
+   "date": "2026-05-01",
+   "gross": 114.62,
+   "refunds": 0.0,
+   "cumulativeGross": 19932.79,
+   "cumulativeNet": 19556.47
+  },
+  {
+   "date": "2026-05-02",
+   "gross": 129.59,
+   "refunds": 0.0,
+   "cumulativeGross": 20062.38,
+   "cumulativeNet": 19686.06
+  },
+  {
+   "date": "2026-05-03",
+   "gross": 83.07,
+   "refunds": 36.54,
+   "cumulativeGross": 20145.45,
+   "cumulativeNet": 19732.59
+  },
+  {
+   "date": "2026-05-04",
+   "gross": 171.12,
+   "refunds": 46.53,
+   "cumulativeGross": 20316.57,
+   "cumulativeNet": 19857.18
+  },
+  {
+   "date": "2026-05-05",
+   "gross": 0.0,
+   "refunds": 41.53,
+   "cumulativeGross": 20316.57,
+   "cumulativeNet": 19815.65
+  },
+  {
+   "date": "2026-05-06",
+   "gross": 93.06,
+   "refunds": 0.0,
+   "cumulativeGross": 20409.63,
+   "cumulativeNet": 19908.71
+  },
+  {
+   "date": "2026-05-07",
+   "gross": 93.06,
+   "refunds": 0.0,
+   "cumulativeGross": 20502.69,
+   "cumulativeNet": 20001.77
+  },
+  {
+   "date": "2026-05-08",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 20502.69,
+   "cumulativeNet": 20001.77
+  },
+  {
+   "date": "2026-05-09",
+   "gross": 0.0,
+   "refunds": 176.12,
+   "cumulativeGross": 20502.69,
+   "cumulativeNet": 19825.65
+  },
+  {
+   "date": "2026-05-10",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 20502.69,
+   "cumulativeNet": 19825.65
+  },
+  {
+   "date": "2026-05-11",
+   "gross": 41.53,
+   "refunds": 93.06,
+   "cumulativeGross": 20544.22,
+   "cumulativeNet": 19774.12
+  },
+  {
+   "date": "2026-05-12",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 20544.22,
+   "cumulativeNet": 19774.12
+  },
+  {
+   "date": "2026-05-13",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 20544.22,
+   "cumulativeNet": 19774.12
+  },
+  {
+   "date": "2026-05-14",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 20544.22,
+   "cumulativeNet": 19774.12
+  },
+  {
+   "date": "2026-05-15",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 20544.22,
+   "cumulativeNet": 19774.12
+  },
+  {
+   "date": "2026-05-16",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 20544.22,
+   "cumulativeNet": 19774.12
+  },
+  {
+   "date": "2026-05-17",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 20544.22,
+   "cumulativeNet": 19774.12
+  },
+  {
+   "date": "2026-05-18",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 20544.22,
+   "cumulativeNet": 19774.12
+  },
+  {
+   "date": "2026-05-19",
+   "gross": 83.06,
+   "refunds": 0.0,
+   "cumulativeGross": 20627.28,
+   "cumulativeNet": 19857.18
+  },
+  {
+   "date": "2026-05-20",
+   "gross": 129.59,
+   "refunds": 0.0,
+   "cumulativeGross": 20756.87,
+   "cumulativeNet": 19986.77
+  },
+  {
+   "date": "2026-05-21",
+   "gross": 78.07,
+   "refunds": 0.0,
+   "cumulativeGross": 20834.94,
+   "cumulativeNet": 20064.84
+  },
+  {
+   "date": "2026-05-22",
+   "gross": 124.59,
+   "refunds": 0.0,
+   "cumulativeGross": 20959.53,
+   "cumulativeNet": 20189.43
+  },
+  {
+   "date": "2026-05-23",
+   "gross": 119.6,
+   "refunds": 0.0,
+   "cumulativeGross": 21079.13,
+   "cumulativeNet": 20309.03
+  },
+  {
+   "date": "2026-05-24",
+   "gross": 227.65,
+   "refunds": 36.0,
+   "cumulativeGross": 21306.78,
+   "cumulativeNet": 20500.68
+  },
+  {
+   "date": "2026-05-25",
+   "gross": 212.66,
+   "refunds": 0.0,
+   "cumulativeGross": 21519.44,
+   "cumulativeNet": 20713.34
+  },
+  {
+   "date": "2026-05-26",
+   "gross": 83.06,
+   "refunds": 0.0,
+   "cumulativeGross": 21602.5,
+   "cumulativeNet": 20796.4
+  },
+  {
+   "date": "2026-05-27",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 21602.5,
+   "cumulativeNet": 20796.4
+  },
+  {
+   "date": "2026-05-28",
+   "gross": 154.93,
+   "refunds": 0.0,
+   "cumulativeGross": 21757.43,
+   "cumulativeNet": 20951.33
+  },
+  {
+   "date": "2026-05-29",
+   "gross": 249.88,
+   "refunds": 0.0,
+   "cumulativeGross": 22007.31,
+   "cumulativeNet": 21201.21
+  },
+  {
+   "date": "2026-05-30",
+   "gross": 349.85,
+   "refunds": 0.0,
+   "cumulativeGross": 22357.16,
+   "cumulativeNet": 21551.06
+  },
+  {
+   "date": "2026-05-31",
+   "gross": 429.82,
+   "refunds": 0.0,
+   "cumulativeGross": 22786.98,
+   "cumulativeNet": 21980.88
+  },
+  {
+   "date": "2026-06-01",
+   "gross": 1134.52,
+   "refunds": 0.0,
+   "cumulativeGross": 23921.5,
+   "cumulativeNet": 23115.4
+  },
+  {
+   "date": "2026-06-02",
+   "gross": 870.63,
+   "refunds": 0.0,
+   "cumulativeGross": 24792.13,
+   "cumulativeNet": 23986.03
+  },
+  {
+   "date": "2026-06-03",
+   "gross": 419.88,
+   "refunds": 0.0,
+   "cumulativeGross": 25212.01,
+   "cumulativeNet": 24405.91
+  },
+  {
+   "date": "2026-06-04",
+   "gross": 94.47,
+   "refunds": 0.0,
+   "cumulativeGross": 25306.48,
+   "cumulativeNet": 24500.38
+  },
+  {
+   "date": "2026-06-05",
+   "gross": 492.83,
+   "refunds": 46.53,
+   "cumulativeGross": 25799.31,
+   "cumulativeNet": 24946.68
+  },
+  {
+   "date": "2026-06-06",
+   "gross": 1224.41,
+   "refunds": 0.0,
+   "cumulativeGross": 27023.72,
+   "cumulativeNet": 26171.09
+  },
+  {
+   "date": "2026-06-07",
+   "gross": 609.74,
+   "refunds": 0.0,
+   "cumulativeGross": 27633.46,
+   "cumulativeNet": 26780.83
+  },
+  {
+   "date": "2026-06-08",
+   "gross": 79.96,
+   "refunds": 0.0,
+   "cumulativeGross": 27713.42,
+   "cumulativeNet": 26860.79
+  },
+  {
+   "date": "2026-06-09",
+   "gross": 119.94,
+   "refunds": 0.0,
+   "cumulativeGross": 27833.36,
+   "cumulativeNet": 26980.73
+  },
+  {
+   "date": "2026-06-10",
+   "gross": 114.95,
+   "refunds": 0.0,
+   "cumulativeGross": 27948.31,
+   "cumulativeNet": 27095.68
+  },
+  {
+   "date": "2026-06-11",
+   "gross": 34.99,
+   "refunds": 0.0,
+   "cumulativeGross": 27983.3,
+   "cumulativeNet": 27130.67
+  },
+  {
+   "date": "2026-06-12",
+   "gross": 34.99,
+   "refunds": 0.0,
+   "cumulativeGross": 28018.29,
+   "cumulativeNet": 27165.66
+  },
+  {
+   "date": "2026-06-13",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28018.29,
+   "cumulativeNet": 27165.66
+  },
+  {
+   "date": "2026-06-14",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28018.29,
+   "cumulativeNet": 27165.66
+  },
+  {
+   "date": "2026-06-15",
+   "gross": 39.98,
+   "refunds": 0.0,
+   "cumulativeGross": 28058.27,
+   "cumulativeNet": 27205.64
+  },
+  {
+   "date": "2026-06-16",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28058.27,
+   "cumulativeNet": 27205.64
+  },
+  {
+   "date": "2026-06-17",
+   "gross": 0.0,
+   "refunds": 41.53,
+   "cumulativeGross": 28058.27,
+   "cumulativeNet": 27164.11
+  },
+  {
+   "date": "2026-06-18",
+   "gross": 0.0,
+   "refunds": 44.98,
+   "cumulativeGross": 28058.27,
+   "cumulativeNet": 27119.13
+  },
+  {
+   "date": "2026-06-19",
+   "gross": 0.0,
+   "refunds": 39.98,
+   "cumulativeGross": 28058.27,
+   "cumulativeNet": 27079.15
+  },
+  {
+   "date": "2026-06-20",
+   "gross": 0.0,
+   "refunds": 44.98,
+   "cumulativeGross": 28058.27,
+   "cumulativeNet": 27034.17
+  },
+  {
+   "date": "2026-06-21",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28058.27,
+   "cumulativeNet": 27034.17
+  },
+  {
+   "date": "2026-06-22",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28058.27,
+   "cumulativeNet": 27034.17
+  },
+  {
+   "date": "2026-06-23",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28058.27,
+   "cumulativeNet": 27034.17
+  },
+  {
+   "date": "2026-06-24",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28058.27,
+   "cumulativeNet": 27034.17
+  },
+  {
+   "date": "2026-06-25",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28058.27,
+   "cumulativeNet": 27034.17
+  },
+  {
+   "date": "2026-06-26",
+   "gross": 34.99,
+   "refunds": 0.0,
+   "cumulativeGross": 28093.26,
+   "cumulativeNet": 27069.16
+  },
+  {
+   "date": "2026-06-27",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28093.26,
+   "cumulativeNet": 27069.16
+  },
+  {
+   "date": "2026-06-28",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28093.26,
+   "cumulativeNet": 27069.16
+  },
+  {
+   "date": "2026-06-29",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28093.26,
+   "cumulativeNet": 27069.16
+  },
+  {
+   "date": "2026-06-30",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28093.26,
+   "cumulativeNet": 27069.16
+  },
+  {
+   "date": "2026-07-01",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28093.26,
+   "cumulativeNet": 27069.16
+  },
+  {
+   "date": "2026-07-02",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28093.26,
+   "cumulativeNet": 27069.16
+  },
+  {
+   "date": "2026-07-03",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28093.26,
+   "cumulativeNet": 27069.16
+  },
+  {
+   "date": "2026-07-04",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28093.26,
+   "cumulativeNet": 27069.16
+  },
+  {
+   "date": "2026-07-05",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28093.26,
+   "cumulativeNet": 27069.16
+  },
+  {
+   "date": "2026-07-06",
+   "gross": 39.98,
+   "refunds": 0.0,
+   "cumulativeGross": 28133.24,
+   "cumulativeNet": 27109.14
+  },
+  {
+   "date": "2026-07-07",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28133.24,
+   "cumulativeNet": 27109.14
+  },
+  {
+   "date": "2026-07-08",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28133.24,
+   "cumulativeNet": 27109.14
+  },
+  {
+   "date": "2026-07-09",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28133.24,
+   "cumulativeNet": 27109.14
+  },
+  {
+   "date": "2026-07-10",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28133.24,
+   "cumulativeNet": 27109.14
+  },
+  {
+   "date": "2026-07-11",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28133.24,
+   "cumulativeNet": 27109.14
+  },
+  {
+   "date": "2026-07-12",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28133.24,
+   "cumulativeNet": 27109.14
+  },
+  {
+   "date": "2026-07-13",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28133.24,
+   "cumulativeNet": 27109.14
+  },
+  {
+   "date": "2026-07-14",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28133.24,
+   "cumulativeNet": 27109.14
+  },
+  {
+   "date": "2026-07-15",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28133.24,
+   "cumulativeNet": 27109.14
+  },
+  {
+   "date": "2026-07-16",
+   "gross": 39.98,
+   "refunds": 0.0,
+   "cumulativeGross": 28173.22,
+   "cumulativeNet": 27149.12
+  },
+  {
+   "date": "2026-07-17",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28173.22,
+   "cumulativeNet": 27149.12
+  },
+  {
+   "date": "2026-07-18",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28173.22,
+   "cumulativeNet": 27149.12
+  },
+  {
+   "date": "2026-07-19",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28173.22,
+   "cumulativeNet": 27149.12
+  },
+  {
+   "date": "2026-07-20",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28173.22,
+   "cumulativeNet": 27149.12
+  },
+  {
+   "date": "2026-07-21",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28173.22,
+   "cumulativeNet": 27149.12
+  },
+  {
+   "date": "2026-07-22",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28173.22,
+   "cumulativeNet": 27149.12
+  },
+  {
+   "date": "2026-07-23",
+   "gross": 34.99,
+   "refunds": 0.0,
+   "cumulativeGross": 28208.21,
+   "cumulativeNet": 27184.11
+  },
+  {
+   "date": "2026-07-24",
+   "gross": 44.98,
+   "refunds": 4.5,
+   "cumulativeGross": 28253.19,
+   "cumulativeNet": 27224.59
+  },
+  {
+   "date": "2026-07-25",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28253.19,
+   "cumulativeNet": 27224.59
+  },
+  {
+   "date": "2026-07-26",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28253.19,
+   "cumulativeNet": 27224.59
+  },
+  {
+   "date": "2026-07-27",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28253.19,
+   "cumulativeNet": 27224.59
+  },
+  {
+   "date": "2026-07-28",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28253.19,
+   "cumulativeNet": 27224.59
+  },
+  {
+   "date": "2026-07-29",
+   "gross": 34.99,
+   "refunds": 0.0,
+   "cumulativeGross": 28288.18,
+   "cumulativeNet": 27259.58
+  },
+  {
+   "date": "2026-07-30",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28288.18,
+   "cumulativeNet": 27259.58
+  },
+  {
+   "date": "2026-07-31",
+   "gross": 142.44,
+   "refunds": 0.0,
+   "cumulativeGross": 28430.62,
+   "cumulativeNet": 27402.02
+  },
+  {
+   "date": "2026-08-01",
+   "gross": 175.41,
+   "refunds": 0.0,
+   "cumulativeGross": 28606.03,
+   "cumulativeNet": 27577.43
+  },
+  {
+   "date": "2026-08-02",
+   "gross": 242.88,
+   "refunds": 0.0,
+   "cumulativeGross": 28848.91,
+   "cumulativeNet": 27820.31
+  },
+  {
+   "date": "2026-08-03",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28848.91,
+   "cumulativeNet": 27820.31
+  },
+  {
+   "date": "2026-08-04",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28848.91,
+   "cumulativeNet": 27820.31
+  },
+  {
+   "date": "2026-08-05",
+   "gross": 39.99,
+   "refunds": 0.0,
+   "cumulativeGross": 28888.9,
+   "cumulativeNet": 27860.3
+  },
+  {
+   "date": "2026-08-06",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 28888.9,
+   "cumulativeNet": 27860.3
+  },
+  {
+   "date": "2026-08-07",
+   "gross": 34.99,
+   "refunds": 0.0,
+   "cumulativeGross": 28923.89,
+   "cumulativeNet": 27895.29
+  },
+  {
+   "date": "2026-08-08",
+   "gross": 115.94,
+   "refunds": 0.0,
+   "cumulativeGross": 29039.83,
+   "cumulativeNet": 28011.23
+  },
+  {
+   "date": "2026-08-09",
+   "gross": 75.96,
+   "refunds": 0.0,
+   "cumulativeGross": 29115.79,
+   "cumulativeNet": 28087.19
+  },
+  {
+   "date": "2026-08-10",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 29115.79,
+   "cumulativeNet": 28087.19
+  },
+  {
+   "date": "2026-08-11",
+   "gross": 79.96,
+   "refunds": 0.0,
+   "cumulativeGross": 29195.75,
+   "cumulativeNet": 28167.15
+  },
+  {
+   "date": "2026-08-12",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 29195.75,
+   "cumulativeNet": 28167.15
+  },
+  {
+   "date": "2026-08-13",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 29195.75,
+   "cumulativeNet": 28167.15
+  },
+  {
+   "date": "2026-08-14",
+   "gross": 75.96,
+   "refunds": 0.0,
+   "cumulativeGross": 29271.71,
+   "cumulativeNet": 28243.11
+  },
+  {
+   "date": "2026-08-15",
+   "gross": 76.95,
+   "refunds": 0.0,
+   "cumulativeGross": 29348.66,
+   "cumulativeNet": 28320.06
+  },
+  {
+   "date": "2026-08-16",
+   "gross": 46.97,
+   "refunds": 0.0,
+   "cumulativeGross": 29395.63,
+   "cumulativeNet": 28367.03
+  },
+  {
+   "date": "2026-08-17",
+   "gross": 3.99,
+   "refunds": 0.0,
+   "cumulativeGross": 29399.62,
+   "cumulativeNet": 28371.02
+  },
+  {
+   "date": "2026-08-18",
+   "gross": 17.97,
+   "refunds": 0.0,
+   "cumulativeGross": 29417.59,
+   "cumulativeNet": 28388.99
+  },
+  {
+   "date": "2026-08-19",
+   "gross": 84.96,
+   "refunds": 0.0,
+   "cumulativeGross": 29502.55,
+   "cumulativeNet": 28473.95
+  },
+  {
+   "date": "2026-08-20",
+   "gross": 11.96,
+   "refunds": 0.0,
+   "cumulativeGross": 29514.51,
+   "cumulativeNet": 28485.91
+  },
+  {
+   "date": "2026-08-21",
+   "gross": 121.5,
+   "refunds": 0.0,
+   "cumulativeGross": 29636.01,
+   "cumulativeNet": 28607.41
+  },
+  {
+   "date": "2026-08-22",
+   "gross": 126.0,
+   "refunds": 0.0,
+   "cumulativeGross": 29762.01,
+   "cumulativeNet": 28733.41
+  },
+  {
+   "date": "2026-08-23",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 29762.01,
+   "cumulativeNet": 28733.41
+  },
+  {
+   "date": "2026-08-24",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 29762.01,
+   "cumulativeNet": 28733.41
+  },
+  {
+   "date": "2026-08-25",
+   "gross": 129.99,
+   "refunds": 0.0,
+   "cumulativeGross": 29892.0,
+   "cumulativeNet": 28863.4
+  },
+  {
+   "date": "2026-08-26",
+   "gross": 45.0,
+   "refunds": 0.0,
+   "cumulativeGross": 29937.0,
+   "cumulativeNet": 28908.4
+  },
+  {
+   "date": "2026-08-27",
+   "gross": 45.0,
+   "refunds": 0.0,
+   "cumulativeGross": 29982.0,
+   "cumulativeNet": 28953.4
+  },
+  {
+   "date": "2026-08-28",
+   "gross": 126.0,
+   "refunds": 0.0,
+   "cumulativeGross": 30108.0,
+   "cumulativeNet": 29079.4
+  },
+  {
+   "date": "2026-08-29",
+   "gross": 40.5,
+   "refunds": 0.0,
+   "cumulativeGross": 30148.5,
+   "cumulativeNet": 29119.9
+  },
+  {
+   "date": "2026-08-30",
+   "gross": 81.0,
+   "refunds": 0.0,
+   "cumulativeGross": 30229.5,
+   "cumulativeNet": 29200.9
+  },
+  {
+   "date": "2026-08-31",
+   "gross": 89.99,
+   "refunds": 0.0,
+   "cumulativeGross": 30319.49,
+   "cumulativeNet": 29290.89
+  },
+  {
+   "date": "2026-09-01",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 30319.49,
+   "cumulativeNet": 29290.89
+  },
+  {
+   "date": "2026-09-02",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 30319.49,
+   "cumulativeNet": 29290.89
+  },
+  {
+   "date": "2026-09-03",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 30319.49,
+   "cumulativeNet": 29290.89
+  },
+  {
+   "date": "2026-09-04",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 30319.49,
+   "cumulativeNet": 29290.89
+  },
+  {
+   "date": "2026-09-05",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 30319.49,
+   "cumulativeNet": 29290.89
+  },
+  {
+   "date": "2026-09-06",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 30319.49,
+   "cumulativeNet": 29290.89
+  },
+  {
+   "date": "2026-09-07",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 30319.49,
+   "cumulativeNet": 29290.89
+  },
+  {
+   "date": "2026-09-08",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 30319.49,
+   "cumulativeNet": 29290.89
+  },
+  {
+   "date": "2026-09-09",
+   "gross": 39.99,
+   "refunds": 0.0,
+   "cumulativeGross": 30359.48,
+   "cumulativeNet": 29330.88
+  },
+  {
+   "date": "2026-09-10",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 30359.48,
+   "cumulativeNet": 29330.88
+  },
+  {
+   "date": "2026-09-11",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 30359.48,
+   "cumulativeNet": 29330.88
+  },
+  {
+   "date": "2026-09-12",
+   "gross": 39.99,
+   "refunds": 0.0,
+   "cumulativeGross": 30399.47,
+   "cumulativeNet": 29370.87
+  },
+  {
+   "date": "2026-09-13",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 30399.47,
+   "cumulativeNet": 29370.87
+  },
+  {
+   "date": "2026-09-14",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 30399.47,
+   "cumulativeNet": 29370.87
+  },
+  {
+   "date": "2026-09-15",
+   "gross": 159.94,
+   "refunds": 0.0,
+   "cumulativeGross": 30559.41,
+   "cumulativeNet": 29530.81
+  },
+  {
+   "date": "2026-09-16",
+   "gross": 164.94,
+   "refunds": 0.0,
+   "cumulativeGross": 30724.35,
+   "cumulativeNet": 29695.75
+  },
+  {
+   "date": "2026-09-17",
+   "gross": 323.86,
+   "refunds": 0.0,
+   "cumulativeGross": 31048.21,
+   "cumulativeNet": 30019.61
+  },
+  {
+   "date": "2026-09-18",
+   "gross": 976.04,
+   "refunds": 80.96,
+   "cumulativeGross": 32024.25,
+   "cumulativeNet": 30914.69
+  },
+  {
+   "date": "2026-09-19",
+   "gross": 913.11,
+   "refunds": 0.0,
+   "cumulativeGross": 32937.36,
+   "cumulativeNet": 31827.8
+  },
+  {
+   "date": "2026-09-20",
+   "gross": 908.59,
+   "refunds": 0.0,
+   "cumulativeGross": 33845.95,
+   "cumulativeNet": 32736.39
+  },
+  {
+   "date": "2026-09-21",
+   "gross": 611.7,
+   "refunds": 9.0,
+   "cumulativeGross": 34457.65,
+   "cumulativeNet": 33339.09
+  },
+  {
+   "date": "2026-09-22",
+   "gross": 716.17,
+   "refunds": 10.0,
+   "cumulativeGross": 35173.82,
+   "cumulativeNet": 34045.26
+  },
+  {
+   "date": "2026-09-23",
+   "gross": 839.65,
+   "refunds": 0.0,
+   "cumulativeGross": 36013.47,
+   "cumulativeNet": 34884.91
+  },
+  {
+   "date": "2026-09-24",
+   "gross": 865.66,
+   "refunds": 0.0,
+   "cumulativeGross": 36879.13,
+   "cumulativeNet": 35750.57
+  },
+  {
+   "date": "2026-09-25",
+   "gross": 696.67,
+   "refunds": 0.0,
+   "cumulativeGross": 37575.8,
+   "cumulativeNet": 36447.24
+  },
+  {
+   "date": "2026-09-26",
+   "gross": 489.77,
+   "refunds": 0.0,
+   "cumulativeGross": 38065.57,
+   "cumulativeNet": 36937.01
+  },
+  {
+   "date": "2026-09-27",
+   "gross": 944.57,
+   "refunds": 0.0,
+   "cumulativeGross": 39010.14,
+   "cumulativeNet": 37881.58
+  },
+  {
+   "date": "2026-09-28",
+   "gross": 598.26,
+   "refunds": 44.98,
+   "cumulativeGross": 39608.4,
+   "cumulativeNet": 38434.86
+  },
+  {
+   "date": "2026-09-29",
+   "gross": 822.64,
+   "refunds": 233.9,
+   "cumulativeGross": 40431.04,
+   "cumulativeNet": 39023.6
+  },
+  {
+   "date": "2026-09-30",
+   "gross": 1362.4,
+   "refunds": 0.0,
+   "cumulativeGross": 41793.44,
+   "cumulativeNet": 40386.0
+  },
+  {
+   "date": "2026-10-01",
+   "gross": 1052.54,
+   "refunds": 0.0,
+   "cumulativeGross": 42845.98,
+   "cumulativeNet": 41438.54
+  },
+  {
+   "date": "2026-10-02",
+   "gross": 1379.94,
+   "refunds": 0.0,
+   "cumulativeGross": 44225.92,
+   "cumulativeNet": 42818.48
+  },
+  {
+   "date": "2026-10-03",
+   "gross": 859.11,
+   "refunds": 40.48,
+   "cumulativeGross": 45085.03,
+   "cumulativeNet": 43637.11
+  },
+  {
+   "date": "2026-10-04",
+   "gross": 963.04,
+   "refunds": 5.0,
+   "cumulativeGross": 46048.07,
+   "cumulativeNet": 44595.15
+  },
+  {
+   "date": "2026-10-05",
+   "gross": 1533.56,
+   "refunds": 0.0,
+   "cumulativeGross": 47581.63,
+   "cumulativeNet": 46128.71
+  },
+  {
+   "date": "2026-10-06",
+   "gross": 1221.18,
+   "refunds": 31.49,
+   "cumulativeGross": 48802.81,
+   "cumulativeNet": 47318.4
+  },
+  {
+   "date": "2026-10-07",
+   "gross": 934.58,
+   "refunds": 38.25,
+   "cumulativeGross": 49737.39,
+   "cumulativeNet": 48214.73
+  },
+  {
+   "date": "2026-10-08",
+   "gross": 1070.48,
+   "refunds": 0.0,
+   "cumulativeGross": 50807.87,
+   "cumulativeNet": 49285.21
+  },
+  {
+   "date": "2026-10-09",
+   "gross": 454.05,
+   "refunds": 0.0,
+   "cumulativeGross": 51261.92,
+   "cumulativeNet": 49739.26
+  },
+  {
+   "date": "2026-10-10",
+   "gross": 755.68,
+   "refunds": 31.49,
+   "cumulativeGross": 52017.6,
+   "cumulativeNet": 50463.45
+  },
+  {
+   "date": "2026-10-11",
+   "gross": 557.77,
+   "refunds": 0.0,
+   "cumulativeGross": 52575.37,
+   "cumulativeNet": 51021.22
+  },
+  {
+   "date": "2026-10-12",
+   "gross": 559.27,
+   "refunds": 10.0,
+   "cumulativeGross": 53134.64,
+   "cumulativeNet": 51570.49
+  },
+  {
+   "date": "2026-10-13",
+   "gross": 142.44,
+   "refunds": 0.0,
+   "cumulativeGross": 53277.08,
+   "cumulativeNet": 51712.93
+  },
+  {
+   "date": "2026-10-14",
+   "gross": 1186.48,
+   "refunds": 4.99,
+   "cumulativeGross": 54463.56,
+   "cumulativeNet": 52894.42
+  },
+  {
+   "date": "2026-10-15",
+   "gross": 991.56,
+   "refunds": 0.0,
+   "cumulativeGross": 55455.12,
+   "cumulativeNet": 53885.98
+  },
+  {
+   "date": "2026-10-16",
+   "gross": 1511.86,
+   "refunds": 0.0,
+   "cumulativeGross": 56966.98,
+   "cumulativeNet": 55397.84
+  },
+  {
+   "date": "2026-10-17",
+   "gross": 537.78,
+   "refunds": 0.0,
+   "cumulativeGross": 57504.76,
+   "cumulativeNet": 55935.62
+  },
+  {
+   "date": "2026-10-18",
+   "gross": 1323.71,
+   "refunds": 0.0,
+   "cumulativeGross": 58828.47,
+   "cumulativeNet": 57259.33
+  },
+  {
+   "date": "2026-10-19",
+   "gross": 1900.69,
+   "refunds": 10.0,
+   "cumulativeGross": 60729.16,
+   "cumulativeNet": 59150.02
+  },
+  {
+   "date": "2026-10-20",
+   "gross": 1199.49,
+   "refunds": 15.98,
+   "cumulativeGross": 61928.65,
+   "cumulativeNet": 60333.53
+  },
+  {
+   "date": "2026-10-21",
+   "gross": 1274.21,
+   "refunds": 0.0,
+   "cumulativeGross": 63202.86,
+   "cumulativeNet": 61607.74
+  },
+  {
+   "date": "2026-10-22",
+   "gross": 1125.52,
+   "refunds": 0.0,
+   "cumulativeGross": 64328.38,
+   "cumulativeNet": 62733.26
+  },
+  {
+   "date": "2026-10-23",
+   "gross": 1109.01,
+   "refunds": 10.0,
+   "cumulativeGross": 65437.39,
+   "cumulativeNet": 63832.27
+  },
+  {
+   "date": "2026-10-24",
+   "gross": 579.76,
+   "refunds": 6.75,
+   "cumulativeGross": 66017.15,
+   "cumulativeNet": 64405.28
+  },
+  {
+   "date": "2026-10-25",
+   "gross": 1265.96,
+   "refunds": 0.0,
+   "cumulativeGross": 67283.11,
+   "cumulativeNet": 65671.24
+  },
+  {
+   "date": "2026-10-26",
+   "gross": 309.86,
+   "refunds": 15.0,
+   "cumulativeGross": 67592.97,
+   "cumulativeNet": 65966.1
+  },
+  {
+   "date": "2026-10-27",
+   "gross": 1496.86,
+   "refunds": 0.0,
+   "cumulativeGross": 69089.83,
+   "cumulativeNet": 67462.96
+  },
+  {
+   "date": "2026-10-28",
+   "gross": 209.91,
+   "refunds": 0.0,
+   "cumulativeGross": 69299.74,
+   "cumulativeNet": 67672.87
+  },
+  {
+   "date": "2026-10-29",
+   "gross": 324.85,
+   "refunds": 0.0,
+   "cumulativeGross": 69624.59,
+   "cumulativeNet": 67997.72
+  },
+  {
+   "date": "2026-10-30",
+   "gross": 84.97,
+   "refunds": 0.0,
+   "cumulativeGross": 69709.56,
+   "cumulativeNet": 68082.69
+  },
+  {
+   "date": "2026-10-31",
+   "gross": 84.97,
+   "refunds": 0.0,
+   "cumulativeGross": 69794.53,
+   "cumulativeNet": 68167.66
+  },
+  {
+   "date": "2026-11-01",
+   "gross": 89.98,
+   "refunds": 0.0,
+   "cumulativeGross": 69884.51,
+   "cumulativeNet": 68257.64
+  },
+  {
+   "date": "2026-11-02",
+   "gross": 19.99,
+   "refunds": 0.0,
+   "cumulativeGross": 69904.5,
+   "cumulativeNet": 68277.63
+  },
+  {
+   "date": "2026-11-03",
+   "gross": 89.96,
+   "refunds": 74.72,
+   "cumulativeGross": 69994.46,
+   "cumulativeNet": 68292.87
+  },
+  {
+   "date": "2026-11-04",
+   "gross": 0.0,
+   "refunds": 0.0,
+   "cumulativeGross": 69994.46,
+   "cumulativeNet": 68292.87
+  }
+ ]
+}
