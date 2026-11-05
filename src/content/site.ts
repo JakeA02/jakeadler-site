@@ -32,7 +32,7 @@ export const disclosure = {
 /** WebP assets in /public/images (sources kept alongside for now). */
 export const images = {
   hero: {
-    portrait: "/images/Hero-jake.webp",
+    portrait: "/images/new-hero.webp",
     book: "/images/tabling-in-central-park.webp",
   },
   founder: {
@@ -41,6 +41,7 @@ export const images = {
     pitch: "/images/crowdfunded_pitch_night_group.webp",
     podcast: "/images/podcast.webp",
     talk: "/images/happycustomers.webp",
+    tabling: "/images/central-park-tabling.webp",
   },
 };
 
@@ -173,7 +174,7 @@ export const chapters = [
     id: "pivot",
     kicker: "Chapter 2",
     title: "The pivot",
-    body: "I made the first books for friends with a full AI pipeline for both the writing and the illustrations, and started selling in August 2025. But AI writing still produced too much slop, and the real excitement (and the scalability) was in seeing your own kid on the page. So I pivoted to templated, human-written stories starring each child.",
+    body: "I made the first books for friends using a fully AI pipeline for both the writing and the illustrations, and started selling in August 2025. But the AI writing kept coming out sloppy, and the real magic (and the scalability) was in kids seeing themselves on the page. So I pivoted to human-written story templates and personalized each book for the child.",
     caption: "The first full-AI prototypes, before the pivot",
   },
   {
@@ -181,8 +182,8 @@ export const chapters = [
     id: "customers",
     kicker: "Chapter 3",
     title: "Finding customers",
-    body: "Nobody searches for a product they don't know exists, so I had to go find parents. Most of that was Meta ads, about $22K over the year, timed around gift moments. Mother's Day and Father's Day were the first real spikes. More than 1,300 families ordered, and we shipped books across North America, Europe, and Asia.",
-    caption: "Families reading their StorybookYou books",
+    body: "The next (and most uncomfortable) step was finding customers. I started by tabling in Central Park and running Meta ads, and the ads became the main driver of sales, especially when timed around gift-giving moments. Mother's Day and Father's Day were the first real spikes. In total, more than 1,300 families have ordered, and we've shipped books across North America, Europe, and Asia.",
+    caption: "Tabling in Central Park, and families reading their StorybookYou storybooks",
   },
   {
     id: "diwali",
@@ -202,7 +203,7 @@ export const chapters = [
     id: "stopped",
     kicker: "Chapter 6",
     title: "Why I stopped",
-    body: "Sales were seasonal, few families bought twice, and image generation was never fully predictable. Margins were going to stay thin, so I shut it down. I left knowing how to build a business, how to design a product alongside customers, and that distribution matters as much as the product, maybe more.",
+    body: "Sales were seasonal, few families bought twice, and image generation was never fully predictable. I also missed working on a team. Margins were going to stay thin, so I shut it down. I left knowing how to build a business, how to design a product alongside customers, and that distribution matters as much as the product, maybe more.",
     caption: "Photos: TomTom pitch night, podcast",
   },
 ];

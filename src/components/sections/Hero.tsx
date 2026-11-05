@@ -13,7 +13,15 @@ export function Hero() {
         </a>
       </div>
       <div className="relative mx-auto w-full max-w-sm md:max-w-none">
-        <Photo label="Portrait of Jake" ratio="4/5" src={images.hero.portrait} className="w-full" objectPosition="50% 20%" />
+        <Photo
+          label="Portrait of Jake"
+          ratio="4/5"
+          src={images.hero.portrait}
+          className="w-full"
+          objectPosition="50% 20%"
+          priority
+          quality={90}
+        />
         <Photo
           label="Jake tabling in Central Park"
           ratio="1/1"

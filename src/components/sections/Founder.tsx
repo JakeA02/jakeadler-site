@@ -82,7 +82,10 @@ function Chapters() {
       <Chapter id="customers">
         <Text i={2} />
         <Reveal>
-          <Photo label="Families reading StorybookYou" ratio="3/2" src={images.founder.talk} />
+          <div className="grid grid-cols-2 gap-3">
+            <Photo label="Tabling in Central Park" ratio="3/4" src={images.founder.tabling} objectPosition="50% 30%" />
+            <Photo label="Families reading StorybookYou" ratio="3/4" src={images.founder.talk} />
+          </div>
           <Caption i={2} />
         </Reveal>
       </Chapter>

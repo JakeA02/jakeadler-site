@@ -161,7 +161,7 @@ export function BookMarquee() {
           <p className="text-xs uppercase tracking-[0.25em] text-ink-soft">
             {books.length} titles, oldest to newest
           </p>
-          <p className="mt-1 text-[11px] italic text-ink-soft/80">Template, then your child.</p>
+          <p className="mt-1 text-[11px] italic text-ink-soft/80">Template, then your kid.</p>
         </div>
         <div className="flex shrink-0 gap-1.5">
           <Arrow dir="prev" onClick={() => step(-1)} />

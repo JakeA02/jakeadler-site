@@ -10,6 +10,8 @@ export function Photo({
   tone = "paper-deep",
   objectPosition = "50% 50%",
   fit = "cover",
+  priority = false,
+  quality,
 }: {
   label: string;
   ratio?: string;
@@ -19,6 +21,8 @@ export function Photo({
   tone?: "paper-deep" | "accent" | "sage";
   objectPosition?: string;
   fit?: "cover" | "contain";
+  priority?: boolean;
+  quality?: number;
 }) {
   const bg =
     tone === "accent" ? "bg-accent/15" : tone === "sage" ? "bg-sage/15" : "bg-paper-deep";
@@ -32,6 +36,8 @@ export function Photo({
           src={src}
           alt={alt || label}
           fill
+          priority={priority}
+          quality={quality}
           className={fit === "contain" ? "object-contain" : "object-cover"}
           style={{ objectPosition }}
           sizes="(max-width:768px) 90vw, 40vw"
