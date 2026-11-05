@@ -7,7 +7,7 @@ export function Personal() {
     <section id="personal" className="border-t border-line">
       <div className="mx-auto max-w-6xl px-6 py-24">
         <Reveal>
-          <p className="text-xs uppercase tracking-[0.25em] text-ink-soft">Who is Jake?</p>
+          <p className="text-xs uppercase tracking-[0.25em] text-ink-soft">Outside work</p>
           <h2 className="mt-3 max-w-2xl font-serif text-[clamp(2rem,4.5vw,3.5rem)] leading-tight">
             An avid traveler, dog lover, and adventurer.
           </h2>
