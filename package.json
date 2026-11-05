@@ -12,7 +12,8 @@
     "motion": "^14.9.1",
     "next": "16.4.5",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "vercel": "^65.11.0"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
