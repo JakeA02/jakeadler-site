@@ -7,8 +7,8 @@ import { Reveal } from "../Reveal";
 import { RevenueChart } from "../charts/RevenueChart";
 import { DiwaliChart } from "../charts/DiwaliChart";
 import { Waterfall } from "../charts/Waterfall";
-import { ReviewTime } from "../charts/ReviewTime";
-import { Architecture } from "../charts/Architecture";
+import { StoryExpander } from "../StoryExpander";
+import { StorySummary } from "../StorySummary";
 
 function Chapter({ id, children, flip = false }: { id: string; children: React.ReactNode; flip?: boolean }) {
   return (
@@ -25,13 +25,15 @@ function Text({ i }: { i: number }) {
       <p className="mb-3 text-xs uppercase tracking-[0.25em] text-accent">{c.kicker}</p>
       <h3 className="font-serif text-4xl leading-tight md:text-5xl">{c.title}</h3>
       <p className="mt-5 max-w-md text-lg leading-relaxed text-ink-soft">{c.body}</p>
-      <p className="mt-4 text-xs italic text-ink-soft/80">{c.caption}</p>
     </Reveal>
   );
 }
 
+function Caption({ i }: { i: number }) {
+  return <p className="mt-4 text-xs italic text-ink-soft/80">{chapters[i].caption}</p>;
+}
+
 export function Founder() {
-  const t = snapshot.totals;
   return (
     <div id="founder" className="border-t border-line">
       <div className="mx-auto max-w-6xl px-6 pt-24">
@@ -51,29 +53,46 @@ export function Founder() {
         </dl>
       </div>
 
+      <StoryExpander ids={chapters.map((c) => c.id)} anchor="founder" summary={<StorySummary />}>
+        <Chapters />
+      </StoryExpander>
+    </div>
+  );
+}
+
+function Chapters() {
+  const t = snapshot.totals;
+  return (
+    <>
       <Chapter id="idea">
         <Text i={0} />
-        <Reveal>
-          <Photo label="Early prototypes" ratio="4/3" src={images.founder.earlyPrototypes} />
-        </Reveal>
-      </Chapter>
-
-      <Chapter id="growth" flip>
-        <Text i={1} />
         <div className="min-w-0">
-          <RevenueChart />
-          <p className="mt-4 text-sm text-ink-soft">
-            {money(stripe.gross)} across {t.orders.toLocaleString()} orders.
-          </p>
           <BookMarquee />
         </div>
       </Chapter>
 
-      <Chapter id="diwali">
+      <Chapter id="pivot" flip>
+        <Text i={1} />
+        <Reveal>
+          <Photo label="Early prototypes" ratio="4/3" src={images.founder.earlyPrototypes} />
+          <Caption i={1} />
+        </Reveal>
+      </Chapter>
+
+      <Chapter id="customers">
         <Text i={2} />
+        <Reveal>
+          <Photo label="Families reading StorybookYou" ratio="3/2" src={images.founder.talk} />
+          <Caption i={2} />
+        </Reveal>
+      </Chapter>
+
+      <Chapter id="diwali" flip>
+        <Text i={3} />
         <div>
           <DiwaliChart />
           <p className="mt-4 font-serif text-2xl italic">{money(diwaliRevenue)} in six weeks.</p>
+          <Caption i={3} />
           <Reveal className="mt-8">
             <Photo
               label="Diwali book spread"
@@ -85,34 +104,33 @@ export function Founder() {
         </div>
       </Chapter>
 
-      <Chapter id="scale" flip>
-        <Text i={3} />
-        <div className="space-y-10">
-          <div className="rounded-[8px] border border-line bg-paper-deep/50 p-6">
-            <p className="mb-4 text-xs uppercase tracking-[0.25em] text-ink-soft">Review time per order</p>
-            <ReviewTime />
+      <Chapter id="economics">
+        <Text i={4} />
+        <div className="min-w-0 space-y-12">
+          <div>
+            <RevenueChart />
+            <p className="mt-4 text-sm text-ink-soft">
+              {money(stripe.gross)} across {t.orders.toLocaleString()} orders.
+            </p>
+          </div>
+          <div>
+            <Waterfall />
+            <p className="mt-4 font-serif text-2xl italic">About {money(t.profit)} left over after everything.</p>
+            <Caption i={4} />
           </div>
         </div>
       </Chapter>
 
-      <Chapter id="economics">
-        <Text i={4} />
-        <div>
-          <Waterfall />
-          <p className="mt-4 text-sm text-ink-soft">
-            The honest reasons I closed it: low repeat purchase, strong seasonality, and image generation that could never be fully predictable.
-          </p>
-        </div>
-      </Chapter>
-
-      <Chapter id="stage" flip>
+      <Chapter id="stopped" flip>
         <Text i={5} />
-        <Reveal className="grid grid-cols-2 gap-3">
-          <Photo label="Crowdfund pitch night" ratio="4/5" src={images.founder.pitch} className="col-span-1" />
-          <Photo label="Podcast recording" ratio="4/5" tone="sage" src={images.founder.podcast} />
-          <Photo label="Families reading StorybookYou" ratio="3/2" src={images.founder.talk} className="col-span-2" />
+        <Reveal>
+          <div className="grid grid-cols-2 gap-3">
+            <Photo label="Crowdfund pitch night" ratio="4/5" src={images.founder.pitch} />
+            <Photo label="Podcast recording" ratio="4/5" tone="sage" src={images.founder.podcast} />
+          </div>
+          <Caption i={5} />
         </Reveal>
       </Chapter>
-    </div>
+    </>
   );
 }

@@ -11,7 +11,7 @@ const toneClass: Record<Project["tone"], string> = {
 
 function Screenshot({ p, image }: { p: Project; image: string }) {
   return (
-    <div className="absolute left-[9%] top-[12%] w-[100%] overflow-hidden rounded-tl-[6px] shadow-[0_18px_40px_-16px_rgba(31,27,22,0.7)] ring-1 ring-black/10 transition-transform duration-700 ease-[var(--ease)] group-hover:-translate-x-[3%] group-hover:-translate-y-[4%]">
+    <div className="relative w-full overflow-hidden rounded-[6px] shadow-md ring-1 ring-black/10 md:absolute md:left-[9%] md:top-[12%] md:w-[100%] md:rounded-tl-[6px] md:shadow-[0_18px_40px_-16px_rgba(31,27,22,0.7)] md:transition-transform md:duration-700 md:ease-[var(--ease)] md:group-hover:-translate-x-[3%] md:group-hover:-translate-y-[4%]">
       {p.video ? null : (
         <div className="flex h-4 items-center gap-1 bg-[#2a2622] px-2" aria-hidden>
           <span className="size-1.5 rounded-full bg-paper/30" />
@@ -24,11 +24,11 @@ function Screenshot({ p, image }: { p: Project; image: string }) {
           src={image}
           alt={`${p.name} screenshot`}
           fill
-          className="object-cover object-left-top"
+          className="object-contain object-center md:object-cover md:object-left-top"
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
         />
         {p.video ? (
-          <span className="absolute left-[38%] top-[42%] flex size-12 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full bg-ink/80 text-paper shadow-lg transition duration-500 group-hover:scale-110 group-hover:bg-accent">
+          <span className="absolute left-1/2 top-1/2 flex size-12 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full bg-ink/80 text-paper shadow-lg transition duration-500 md:group-hover:scale-110 md:group-hover:bg-accent">
             <svg viewBox="0 0 24 24" className="ml-0.5 size-5 fill-current" aria-hidden>
               <path d="M8 5v14l11-7z" />
             </svg>
@@ -42,7 +42,7 @@ function Screenshot({ p, image }: { p: Project; image: string }) {
 /** Illustrated tile for projects without a screenshot: Jarvis calling with your morning briefing. */
 function IncomingCall() {
   return (
-    <div className="absolute left-1/2 top-[12%] w-[40%] -translate-x-1/2 rounded-t-[22px] border border-paper/15 bg-[#2a2622] px-4 pb-10 pt-6 text-center text-paper shadow-[0_18px_40px_-16px_rgba(0,0,0,0.8)] transition-transform duration-700 ease-[var(--ease)] group-hover:-translate-y-[6%]">
+    <div className="relative mx-auto w-[min(100%,11rem)] rounded-t-[22px] border border-paper/15 bg-[#2a2622] px-4 pb-10 pt-6 text-center text-paper shadow-[0_18px_40px_-16px_rgba(0,0,0,0.8)] md:absolute md:left-1/2 md:top-[12%] md:w-[40%] md:-translate-x-1/2 md:transition-transform md:duration-700 md:ease-[var(--ease)] md:group-hover:-translate-y-[6%]">
       <p className="text-[9px] uppercase tracking-[0.2em] text-paper/50">Incoming call</p>
       <div className="relative mx-auto mt-4 size-11">
         <span className="call-ring absolute inset-0 rounded-full bg-sage/60" />
@@ -74,7 +74,7 @@ function ProjectCard({ p }: { p: Project }) {
       <a
         href={primary}
         aria-label={`${p.name}: ${links[0].label}`}
-        className={`relative block aspect-[16/11] overflow-hidden rounded-[8px] ${toneClass[p.tone]}`}
+        className={`relative flex aspect-[16/10] items-center justify-center overflow-hidden rounded-[8px] p-3 md:block md:aspect-[16/11] md:p-0 ${toneClass[p.tone]}`}
       >
         {p.image ? <Screenshot p={p} image={p.image} /> : <IncomingCall />}
       </a>
@@ -110,17 +110,22 @@ function ProjectCard({ p }: { p: Project }) {
 
 export function SideProjects() {
   return (
-    <div className="mt-24">
-      <Reveal>
-        <p className="text-xs uppercase tracking-[0.25em] text-ink-soft">Side projects</p>
-      </Reveal>
-      <ul className="mt-8 grid gap-x-8 gap-y-14 sm:grid-cols-2 lg:grid-cols-3">
-        {projects.map((p, i) => (
-          <Reveal as="li" key={p.name} delay={(i % 3) * 90} threshold={0.15}>
-            <ProjectCard p={p} />
-          </Reveal>
-        ))}
-      </ul>
-    </div>
+    <section id="projects" className="border-t border-line">
+      <div className="mx-auto max-w-6xl px-6 py-24">
+        <Reveal>
+          <p className="text-xs uppercase tracking-[0.25em] text-ink-soft">The builder</p>
+          <h2 className="mt-3 max-w-3xl font-serif text-[clamp(2rem,4.5vw,3.5rem)] leading-tight">
+            Side projects, newest first.
+          </h2>
+        </Reveal>
+        <ul className="mt-12 grid gap-x-8 gap-y-14 sm:grid-cols-2 lg:grid-cols-3">
+          {projects.map((p, i) => (
+            <Reveal as="li" key={p.name} delay={(i % 3) * 90} threshold={0.15}>
+              <ProjectCard p={p} />
+            </Reveal>
+          ))}
+        </ul>
+      </div>
+    </section>
   );
 }

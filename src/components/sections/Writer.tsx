@@ -1,8 +1,6 @@
 import Image from "next/image";
 import { site } from "@/content/site";
 import { Reveal } from "../Reveal";
-import { SideProjects } from "../SideProjects";
-
 type Post = {
   title: string;
   link: string;
@@ -131,8 +129,6 @@ export async function Writer() {
             </a>
           </Reveal>
         </div>
-
-        <SideProjects />
       </div>
     </section>
   );

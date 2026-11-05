@@ -18,6 +18,7 @@ export function Contact() {
             <CopyEmail email={site.email} />
             <a href={site.linkedin} className="text-sm underline underline-offset-4 hover:text-accent">LinkedIn</a>
             <a href={site.github} className="text-sm underline underline-offset-4 hover:text-accent">GitHub</a>
+            <a href={site.resume} target="_blank" rel="noopener noreferrer" className="text-sm underline underline-offset-4 hover:text-accent">Resume</a>
           </div>
         </Reveal>
         <p className="mt-24 text-xs text-paper/40">© 2026 Jake Adler · New York</p>

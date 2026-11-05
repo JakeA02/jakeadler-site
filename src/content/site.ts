@@ -10,6 +10,7 @@ export const site = {
   // TODO: confirm LinkedIn URL.
   linkedin: "https://www.linkedin.com/in/adlerjake",
   github: "https://github.com/JakeA02",
+  resume: "https://drive.google.com/file/d/1bidhmWDni5Ex6W329tr5RkqYuA4jiFnX/view?usp=sharing",
   substack: {
     url: "https://thejakeadler.substack.com",
     feedUrl: "https://thejakeadler.substack.com/feed",
@@ -32,7 +33,7 @@ export const disclosure = {
 export const images = {
   hero: {
     portrait: "/images/Hero-jake.webp",
-    book: "/images/jake_and_dog.webp",
+    book: "/images/tabling-in-central-park.webp",
   },
   founder: {
     earlyPrototypes: "/images/early-prototypes.webp",
@@ -46,8 +47,7 @@ export const images = {
 export const hero = {
   eyebrow: "Jake Adler",
   title: "Ex-Founder. AI Builder.",
-  subtitle: "Technology feels most magical when you can hold it.",
-  line: "I spent a year building an AI children's book company as a solopreneur, then walked away. This is the whole story.",
+  line: "I build AI products people can hold and use. Before this, I ran StorybookYou on my own for a year. Here's what I learned, what I'm building now, and what I'm thinking about.",
 };
 
 export const headlineStats = [
@@ -142,7 +142,7 @@ export const personal = [
   {
     label: "Bartender",
     caption: "Where I learned to be customer-first.",
-    ratio: "1/1",
+    ratio: "4/5",
     src: "/images/bartending.webp",
     objectPosition: "50% 30%",
   },
@@ -166,43 +166,44 @@ export const chapters = [
     id: "idea",
     kicker: "Chapter 1",
     title: "The idea",
-    body: "What if you could place kids in printed children's book with just one photo? In April 2025, image models were just getting good enough to make this possible. I made the first books for friends, using a full AI pipeline for both the writing and the illustrations.",
-    caption: "Photo: early prototypes",
+    body: "Technology feels most magical when you can hold it. So what if one photo could put a kid inside a printed children's book? In April 2025, image models were just getting good enough to make that possible.",
+    caption: "Every title, from blank template to personalized cover",
   },
   {
-    id: "growth",
+    id: "pivot",
     kicker: "Chapter 2",
-    title: "Zero to $70K",
-    body: "AI-writing still outputted too much slop. And, I realized the real excitement — and the scalability — was in photo personalization. So I pivoted to templated, human-written stories starring each kid.",
-    caption: "Photo: Cumulative revenue, Stripe",
+    title: "The pivot",
+    body: "I made the first books for friends with a full AI pipeline for both the writing and the illustrations, and started selling in August 2025. But AI writing still produced too much slop, and the real excitement (and the scalability) was in seeing your own kid on the page. So I pivoted to templated, human-written stories starring each child.",
+    caption: "The first full-AI prototypes, before the pivot",
+  },
+  {
+    // TODO: confirm the distribution details (Meta as the main channel, the gift-moment framing).
+    id: "customers",
+    kicker: "Chapter 3",
+    title: "Finding customers",
+    body: "Nobody searches for a product they don't know exists, so I had to go find parents. Most of that was Meta ads, about $22K over the year, timed around gift moments. Mother's Day and Father's Day were the first real spikes. More than 1,300 families ordered, and we shipped books across North America, Europe, and Asia.",
+    caption: "Families reading their StorybookYou books",
   },
   {
     id: "diwali",
-    kicker: "Chapter 3",
-    title: "The Diwali spike",
-    body: "Our Diwali storybook was the first ever human-illustrated, AI-personalized children's book. Brought to life with an Indian artist, it brought in about $40K in six weeks.",
-    caption: "Photo: Daily sales, Sep to Oct 2026",
-  },
-  {
-    id: "scale",
     kicker: "Chapter 4",
-    title: "Scaling as one person",
-    body: "I couldn't review every book myself, so I built a bespoke review platform and hired a small team. Review time dropped from ten minutes to ninety seconds per book.",
-    caption: "Review time after the custom review platform",
+    title: "The Diwali spike",
+    body: "Our Diwali storybook was the first ever human-illustrated, AI-personalized book. We collaborated with an Indian artist. It brought in about $40K in six weeks, more than the rest of the year combined.",
+    caption: "Daily sales, Sep 17 to Oct 31, 2026",
   },
   {
     id: "economics",
     kicker: "Chapter 5",
     title: "Where every dollar went",
-    body: "The honest version of the numbers. Seasonality, low repeat purchases, and unpredictable image output kept margins thin without an end in sight, so I decided to stop.",
-    caption: "All time, August 2025 to today, per-dollar breakdown",
+    body: "The whole year in two charts: cumulative revenue, then what printing, AI, payment fees, and ads took out of it.",
+    caption: "All time, August 2025 to today. Revenue from Stripe.",
   },
   {
-    id: "stage",
+    id: "stopped",
     kicker: "Chapter 6",
-    title: "What I took with me",
-    body: "I learned what it takes to build a business and how to design a product alongside customers. I also learned that distribution and sales matter as much as the product, perhaps even more so.",
-    caption: "Photos: TomTom pitch night, podcast, happy customers",
+    title: "Why I stopped",
+    body: "Sales were seasonal, few families bought twice, and image generation was never fully predictable. Margins were going to stay thin, so I shut it down. I left knowing how to build a business, how to design a product alongside customers, and that distribution matters as much as the product, maybe more.",
+    caption: "Photos: TomTom pitch night, podcast",
   },
 ];
 

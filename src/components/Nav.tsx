@@ -1,5 +1,5 @@
 export function Nav() {
-  const links = [["Story", "#founder"], ["Writing", "#writer"], ["Me", "#personal"], ["Contact", "#contact"]];
+  const links = [["Story", "#founder"], ["Projects", "#projects"], ["Writing", "#writer"], ["Me", "#personal"], ["Contact", "#contact"]];
   return (
     <header className="fixed inset-x-0 top-0 z-40 flex items-center justify-between px-6 py-4 mix-blend-multiply">
       <a href="#" className="font-serif text-lg">Jake Adler</a>
